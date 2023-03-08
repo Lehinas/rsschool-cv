@@ -2,5 +2,5 @@
 
 **Contact information:**
 
-* **Email:** someEmail@mail.ru *
-* **Discrod:** Lehina#9970 *
+* **Email:** someEmail@mail.ru 
+* **Discrod:** Lehina#9970 
