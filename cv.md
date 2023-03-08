@@ -3,4 +3,4 @@
 **Contact information:**
 
 * **Email:** someEmail@mail.ru 
-* **Discrod:** Lehina#9970 
+* **Discrod:** Lehinas#9970 
